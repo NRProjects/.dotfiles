@@ -1,1 +1,0 @@
-/home/nate/.config/i3
